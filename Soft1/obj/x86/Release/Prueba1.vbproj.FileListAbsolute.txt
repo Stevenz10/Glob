@@ -1,0 +1,9 @@
+C:\Users\Steven\documents\visual studio 2010\Projects\Prueba1\Prueba1\bin\Release\Prueba1.exe
+C:\Users\Steven\documents\visual studio 2010\Projects\Prueba1\Prueba1\bin\Release\Prueba1.pdb
+C:\Users\Steven\documents\visual studio 2010\Projects\Prueba1\Prueba1\bin\Release\Prueba1.xml
+C:\Users\Steven\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\x86\Release\Prueba1.Form1.resources
+C:\Users\Steven\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\x86\Release\Prueba1.Resources.resources
+C:\Users\Steven\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\x86\Release\Prueba1.vbproj.GenerateResource.Cache
+C:\Users\Steven\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\x86\Release\Prueba1.exe
+C:\Users\Steven\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\x86\Release\Prueba1.xml
+C:\Users\Steven\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\x86\Release\Prueba1.pdb

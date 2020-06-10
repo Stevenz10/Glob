@@ -1,0 +1,18 @@
+C:\Users\Steven\AppData\Local\Temporary Projects\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\Steven\AppData\Local\Temporary Projects\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\Steven\AppData\Local\Temporary Projects\Prueba1\bin\Debug\Prueba1.xml
+C:\Users\Steven\AppData\Local\Temporary Projects\Prueba1\obj\x86\Debug\Prueba1.Form1.resources
+C:\Users\Steven\AppData\Local\Temporary Projects\Prueba1\obj\x86\Debug\Prueba1.Resources.resources
+C:\Users\Steven\AppData\Local\Temporary Projects\Prueba1\obj\x86\Debug\Prueba1.vbproj.GenerateResource.Cache
+C:\Users\Steven\AppData\Local\Temporary Projects\Prueba1\obj\x86\Debug\Prueba1.exe
+C:\Users\Steven\AppData\Local\Temporary Projects\Prueba1\obj\x86\Debug\Prueba1.xml
+C:\Users\Steven\AppData\Local\Temporary Projects\Prueba1\obj\x86\Debug\Prueba1.pdb
+C:\Users\Steven\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\x86\Debug\Prueba1.exe
+C:\Users\Steven\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\x86\Debug\Prueba1.xml
+C:\Users\Steven\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\x86\Debug\Prueba1.pdb
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.xml
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\Prueba1\Prueba1\obj\x86\Debug\Prueba1.Form1.resources
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\Prueba1\Prueba1\obj\x86\Debug\Prueba1.Resources.resources
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\Prueba1\Prueba1\obj\x86\Debug\Prueba1.vbproj.GenerateResource.Cache
