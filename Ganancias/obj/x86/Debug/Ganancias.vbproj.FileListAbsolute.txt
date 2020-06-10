@@ -1,0 +1,9 @@
+D:\Visual Basic Studio\DOCUMENTOS\Ganancias\Ganancias\bin\Debug\Ganancias.exe
+D:\Visual Basic Studio\DOCUMENTOS\Ganancias\Ganancias\bin\Debug\Ganancias.pdb
+D:\Visual Basic Studio\DOCUMENTOS\Ganancias\Ganancias\bin\Debug\Ganancias.xml
+D:\Visual Basic Studio\DOCUMENTOS\Ganancias\Ganancias\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Visual Basic Studio\DOCUMENTOS\Ganancias\Ganancias\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Visual Basic Studio\DOCUMENTOS\Ganancias\Ganancias\obj\x86\Debug\Ganancias.vbproj.GenerateResource.Cache
+D:\Visual Basic Studio\DOCUMENTOS\Ganancias\Ganancias\obj\x86\Debug\Ganancias.exe
+D:\Visual Basic Studio\DOCUMENTOS\Ganancias\Ganancias\obj\x86\Debug\Ganancias.xml
+D:\Visual Basic Studio\DOCUMENTOS\Ganancias\Ganancias\obj\x86\Debug\Ganancias.pdb
